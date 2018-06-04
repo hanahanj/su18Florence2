@@ -1,0 +1,17 @@
+h1{
+	color:red;
+	font-size:60px;
+}
+
+p{
+	color:magenta;
+}
+
+.intro{
+	text-decoration: underline;
+}
+
+
+.chorus{
+	font-style: italic;
+}
